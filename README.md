@@ -61,7 +61,7 @@ https://pass-in-web.netlify.app/
 #### Clone the repository and navigate to the folder
 
 ```
-$ git https://github.com/jefferson-gbarbosa/nlw-unite-react && cd nlw-unite-react
+$ git https://github.com/hevair/nlw-unite-react/nlw-unite-react && cd nlw-unite-react
 ```
 
 #### Installing necessary dependencies
